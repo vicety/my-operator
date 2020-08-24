@@ -1,0 +1,7 @@
+apiVersion: vicety.github.io.example.com/v1
+kind: Deployment
+metadata:
+  name: deployment-sample
+spec:
+  # Add fields here
+  foo: bar
